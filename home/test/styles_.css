@@ -1,13 +1,10 @@
-/* styles.css */
+/* styles_.css */
 body {
-    background-color:#333333;
+    /*background-color:#333333;*/
 }
 
-.topnav{
-    background-color: #333333;
-    overflow: hidden;
-}
-.topnav a {
+
+.topnav {
     float: left;
     color: #0074e4;
     text-align: center;
