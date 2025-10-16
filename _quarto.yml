@@ -9,6 +9,15 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+    tools:
+      - icon: bluesky
+        href: https://bsky.app/profile/edmolo.bsky.social
+      - icon: github
+        href: https://github.com/edmolo
+      - icon: osf
+        href: https://osf.io/eacnh
+      - icon: linkedin
+        href: https://www.linkedin.com/in/logan-s-edmondson/
 
 format:
   html:
