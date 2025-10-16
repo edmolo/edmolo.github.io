@@ -1,0 +1,13 @@
+---
+title: "Welcome!"
+---
+
+::: {style="text-align: left;"}
+I am a second year PhD student at the University of Missouri, working under the mentorship of Dr. Keely Dugan. My research primarily focuses on understanding the social and contextual factors that underly personality development. I am especially interested in the role that geography plays in personality development. Other interests include trait assessment and social network dynamics, with a focus on factors that predict relationship dissolution. 
+:::
+
+![](IMG_5899.png){fig-align="center"}
+
+::: {style="text-align: left;"}
+Outside of my research, I enjoy NBA basketball, spending time with my dog, Mike, and reading science fiction and fantasy.
+:::
